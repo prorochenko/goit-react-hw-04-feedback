@@ -1,0 +1,5 @@
+.notificationMsg {
+  display: flex;
+  align-items: center;
+  color: rgb(230, 172, 97);
+}
